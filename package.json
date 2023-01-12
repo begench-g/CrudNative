@@ -12,6 +12,7 @@
     "@react-native-community/masked-view": "^0.1.11",
     "@react-navigation/native": "^6.1.1",
     "@react-navigation/native-stack": "^6.9.7",
+    "axios": "^1.2.2",
     "expo": "~47.0.9",
     "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "~1.4.2",
